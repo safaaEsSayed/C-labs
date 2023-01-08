@@ -1,0 +1,15 @@
+C:\Users\Ba2a\source\repos\lab04\lab04\bin\Debug\net6.0\lab04.exe
+C:\Users\Ba2a\source\repos\lab04\lab04\bin\Debug\net6.0\lab04.deps.json
+C:\Users\Ba2a\source\repos\lab04\lab04\bin\Debug\net6.0\lab04.runtimeconfig.json
+C:\Users\Ba2a\source\repos\lab04\lab04\bin\Debug\net6.0\lab04.dll
+C:\Users\Ba2a\source\repos\lab04\lab04\bin\Debug\net6.0\lab04.pdb
+C:\Users\Ba2a\source\repos\lab04\lab04\obj\Debug\net6.0\lab04.csproj.AssemblyReference.cache
+C:\Users\Ba2a\source\repos\lab04\lab04\obj\Debug\net6.0\lab04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ba2a\source\repos\lab04\lab04\obj\Debug\net6.0\lab04.AssemblyInfoInputs.cache
+C:\Users\Ba2a\source\repos\lab04\lab04\obj\Debug\net6.0\lab04.AssemblyInfo.cs
+C:\Users\Ba2a\source\repos\lab04\lab04\obj\Debug\net6.0\lab04.csproj.CoreCompileInputs.cache
+C:\Users\Ba2a\source\repos\lab04\lab04\obj\Debug\net6.0\lab04.dll
+C:\Users\Ba2a\source\repos\lab04\lab04\obj\Debug\net6.0\refint\lab04.dll
+C:\Users\Ba2a\source\repos\lab04\lab04\obj\Debug\net6.0\lab04.pdb
+C:\Users\Ba2a\source\repos\lab04\lab04\obj\Debug\net6.0\lab04.genruntimeconfig.cache
+C:\Users\Ba2a\source\repos\lab04\lab04\obj\Debug\net6.0\ref\lab04.dll
